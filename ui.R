@@ -580,7 +580,7 @@ ui <- dashboardPage(
     fluidRow(
                  valueBoxOutput("minbox"),
                   valueBoxOutput("riskfreebox"),
-                 valueBoxOutput("max")
+                 valueBoxOutput("maxbox")
                   
                )
     ,
